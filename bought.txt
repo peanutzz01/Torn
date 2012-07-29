@@ -1,0 +1,6 @@
+
+#############
+Bought: 10 points
+From: /profiles.php?XID=1639494
+Price per point: 60000
+Total price: 600000
